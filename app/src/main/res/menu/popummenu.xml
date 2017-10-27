@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="9:00 - 10:30"
+        android:id="@+id/mornFirst"></item>
+    <item android:title="10:30 - 12:00"
+        android:id="@+id/mornSecond"></item>
+    <item android:title="14:00 - 15:30"
+        android:id="@+id/noonFirst"></item>
+    <item android:title="15:30 - 17:00"
+        android:id="@+id/noonSecond"></item>
+
+</menu>

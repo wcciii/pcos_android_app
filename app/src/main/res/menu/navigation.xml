@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/personal_detail"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="Personal Detail" />
+
+    <item
+        android:id="@+id/appointment"
+        android:icon="@drawable/appinment_background"
+        android:title="Appointment" />
+
+    <item
+        android:id="@+id/questionnaire"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="Questionnaire" />
+
+    <item
+        android:id="@+id/notification"
+        android:icon="@drawable/ic_notifications_black_24dp"
+        android:title="Notification" />
+
+</menu>
