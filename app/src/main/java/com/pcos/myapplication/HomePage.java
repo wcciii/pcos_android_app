@@ -85,7 +85,7 @@ public class HomePage extends AppCompatActivity {
         MenuItem menuItem = menu.getItem(0);
         menuItem.setChecked(true);
 
-        String url = "http://10.0.0.5:9000/pcos/api/verify";
+        String url = "http://10.0.0.2:9000/pcos/api/verify";
         JSONObject jobj = new JSONObject();
         try {
             jobj.put("mobileVerification", verifyCode);
